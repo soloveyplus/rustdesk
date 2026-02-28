@@ -42,7 +42,7 @@ pub fn get_custom_server_from_string(s: &str) -> ResultType<CustomServer> {
     // ============================================
     let default_server = CustomServer {
         host: "192.168.0.144".to_string(),
-        key: "GtuvkU7MhXQnUQFqX2cRw7gW8jLp9yZ3sF=".to_string(),
+        key: "iFbV2qxT39cfhb1H+EP3fnGkvs6TjxQXYCcr2EbALTo=".to_string(),
         api: "".to_string(),
         relay: "".to_string(),
     };
